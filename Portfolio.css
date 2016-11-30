@@ -1,0 +1,119 @@
+body {
+    background-color: #700656;
+    background-size: cover;
+
+}
+
+
+.container{
+
+
+}
+
+
+h3 {
+	font-family: Verdana;
+	font-size:45px;
+	color: #ffffff;
+	line-height: 150%;
+	text-align: center;
+
+}
+
+
+
+.navbar {
+
+	margin-left: 280px;
+	margin-bottom: 30px;
+}
+
+
+ul li {/* Rectangle 18 Copy 2: */
+	background: #000000;
+	border: 0px solid #FFFFFF;
+	border-radius: 11px;
+	font-family: Verdana;
+	font-size: 22px;
+	color: #ffffff;
+	line-height: 120%;
+	display: inline;
+	padding: 10px;
+	margin-right: 25px;
+
+
+
+
+}
+
+ul li a{/* Rectangle 18 Copy 2: */
+	color: #ffffff;
+	text-decoration:none;
+	vertical-align: top;
+	margin: 10px;
+
+}
+
+.pic {
+	float: right;
+	height: 700px;
+	width: 550px;
+	margin-right: 40px;
+	margin-top: 108px;
+}
+
+h3 {
+	font-family: arial;
+	font-size: 29px;
+	color: #ffffff;
+	line-height: 49px;
+	float: center;
+	text-align: center;
+	margin-top: 110px;
+	margin-right: 850px;
+
+}
+
+
+
+h4{
+	text-align: left;
+	line-height: 35px;
+	margin-top: 120px;
+	margin-right: 620px;
+	font-size: 28px;
+
+
+
+}
+
+
+.copyright {
+
+	text-align: left;
+	margin-top: 160px;
+	
+
+
+}
+
+
+.copyright a {
+	color: #ffffff;
+}
+
+
+.icons {
+	float: right;
+	margin-top: 25px;
+	margin-right: 25px;
+
+
+}
+
+
+.icons a {
+	margin-left: 25px;
+
+}
+

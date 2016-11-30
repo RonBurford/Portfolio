@@ -1,0 +1,107 @@
+body {
+    background-image: url("bkgImg 2.png");
+    background-color: #cccccc;
+    background-size: cover;
+
+}
+
+
+.container{
+
+
+}
+
+
+h3 {
+	font-family: Verdana;
+	font-size:35px;
+	color: #000000;
+	line-height: 40px;
+	text-align: center;
+
+}
+
+
+
+.navbar {
+
+	margin-left: 280px;
+	margin-bottom: 30px;
+}
+
+
+ul li {/* Rectangle 18 Copy 2: */
+	background: #e39008;
+	border: 0px solid #FFFFFF;
+	border-radius: 11px;
+	font-family: Verdana;
+	font-size: 22px;
+	color: #ffffff;
+	line-height: 120%;
+	display: inline;
+	padding: 10px;
+	margin-right: 25px;
+
+
+
+
+}
+
+ul li a{/* Rectangle 18 Copy 2: */
+	color: #ffffff;
+	text-decoration:none;
+	vertical-align: top;
+	margin: 10px;
+
+}
+
+
+
+h3{
+	padding:0 10% 0 10%;
+}
+
+
+
+h4{
+	text-align: center;
+	margin-top: 50px;
+	margin-left: -10px;
+
+
+}
+
+
+.copyright {
+
+	text-align: left;
+	margin-top: 150px;
+	
+
+
+}
+
+
+.copyright a {
+	color: #ffffff;
+}
+
+
+.icons {
+	float: right;
+	margin-top: 20px;
+	margin-right: 25px;
+
+
+}
+
+
+.icons a {
+	margin-left: 25px;
+
+}
+
+
+
+
+

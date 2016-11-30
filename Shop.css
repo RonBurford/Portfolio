@@ -1,0 +1,35 @@
+body {
+    background-color: #031297;
+}
+
+
+h4 {
+	display: inline,;
+	float: left;
+	padding-right:43px;
+
+
+}
+
+li {/* Rectangle 18 Copy 2: */
+	background: #000000;
+	border: 1px solid #FFFFFF;
+	border-radius: 12px;
+	display: inline-block;
+	float:right;
+	/* Resume: */
+	font-family: Avenir-Book;
+	font-size: 36px;
+	color: #FFFFFF;
+	line-height: 49px;
+	
+}
+
+
+h2 {
+	font-family: Avenir-Book;
+	color: #000000;
+	font-size: 40;
+}
+
+
