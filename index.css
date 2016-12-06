@@ -1,5 +1,5 @@
 body {
-    background-image: url("bkgImg.png");
+    background-image: url("bkgImg 2.png");
     background-color: #cccccc;
     background-size: cover;
 
@@ -19,13 +19,14 @@ h3 {
 	line-height: 150%;
 	text-align: center;
 
+
 }
 
 
 
 .navbar {
 
-	margin-left: 280px;
+	margin-left: 400px;
 	margin-bottom: 30px;
 }
 
@@ -84,13 +85,14 @@ h4{
 
 .copyright a {
 	color: #ffffff;
+	margin-left: 5px;
 }
 
 
 .icons {
 	float: right;
 	margin-top: 20px;
-	margin-right: 25px;
+	margin-right: 35px;
 
 
 }
